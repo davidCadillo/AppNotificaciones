@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "408548629579",
+    "firebase_url": "https://appnotificaciones-fabb8.firebaseio.com",
+    "project_id": "appnotificaciones-fabb8",
+    "storage_bucket": "appnotificaciones-fabb8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408548629579:android:618e57149baa7692",
+        "android_client_info": {
+          "package_name": "com.tusueldo.appnotificaciones"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408548629579-qdi706jp47u4ddkn4sda657co4tlkldd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdfd_r38OpUPKhAWCanSUBXSiN54puRSI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
